@@ -1,0 +1,6 @@
+framework module MLWebService {
+  umbrella header "MLWebService-umbrella.h"
+
+  export *
+  module * { export * }
+}

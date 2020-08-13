@@ -1,0 +1,6 @@
+framework module SwiftyLib {
+  umbrella header "SwiftyLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

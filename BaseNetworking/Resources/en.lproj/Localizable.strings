@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  BaseNetworking
+
+  Created by Nguyen Vu Hao on 8/6/20.
+  Copyright © 2020 HaoNV. All rights reserved.
+*/
+
+"Main.hello" = "Hello %@";
+"hello" = "Hello";
+"pull_to_refresh" = "Pull to refresh";
+"Main.Setting" = "Setting";

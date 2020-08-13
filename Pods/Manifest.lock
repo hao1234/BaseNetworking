@@ -1,0 +1,64 @@
+PODS:
+  - Actions (3.0.1)
+  - CocoaLumberjack/Core (3.5.3)
+  - CocoaLumberjack/Swift (3.5.3):
+    - CocoaLumberjack/Core
+  - MLWebService (0.0.4):
+    - SwiftyJSON (~> 4.2)
+  - ObjectMapper (3.5.3)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.3.0)
+  - SwiftyLib (0.0.4)
+
+DEPENDENCIES:
+  - Actions
+  - CocoaLumberjack/Swift (~> 3.5.1)
+  - MLWebService (~> 0.0.4)
+  - ObjectMapper (~> 3.4)
+  - RxCocoa
+  - RxSwift
+  - SDWebImage (= 4.4.5)
+  - SnapKit (~> 4.2)
+  - SwiftyJSON (~> 4.2)
+  - SwiftyLib (~> 0.0.4)
+
+SPEC REPOS:
+  https://github.com/hao1234/Specs:
+    - MLWebService
+    - SwiftyLib
+  trunk:
+    - Actions
+    - CocoaLumberjack
+    - ObjectMapper
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Actions: 696288b71e88903a69ec8d04123df05ad16125dc
+  CocoaLumberjack: 2f44e60eb91c176d471fdba43b9e3eae6a721947
+  MLWebService: 75a136db0b84ed33d29dad9176afee9fec970e02
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  SwiftyLib: 97c42eeecbc088799fa24bba1c0d7c05f73d8522
+
+PODFILE CHECKSUM: 88df8e7577961eb6f3d5711f598e3bd7f79497a0
+
+COCOAPODS: 1.9.3
